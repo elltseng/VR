@@ -18,8 +18,10 @@ ModelImporter:
     2100002: bark
     2300000: Cube
     2300002: Icosphere.002
+    2300004: //RootNode
     3300000: Cube
     3300002: Icosphere.002
+    3300004: //RootNode
     4300000: Icosphere.002
     4300002: Cube
     10800000: Lamp

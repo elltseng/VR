@@ -13,8 +13,11 @@ ModelImporter:
     400006: //RootNode
     2000000: Camera
     2100000: Rock_01.001
+    2100002: rock3
     2300000: Rock 01.obj.001
+    2300002: //RootNode
     3300000: Rock 01.obj.001
+    3300002: //RootNode
     4300000: Rock 01.obj.001
     10800000: Lamp
   externalObjects: {}

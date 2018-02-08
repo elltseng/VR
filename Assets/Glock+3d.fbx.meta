@@ -1,16 +1,14 @@
 fileFormatVersion: 2
-guid: a16901bc148870140b8de2efffe9e625
+guid: 7ace70b5d442381468a7dde41c98e5f5
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
-    2100002: kBlade
-    2100004: kHandle
+    2100000: Material
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Knife
+    4300000: Grip
   externalObjects: {}
   materials:
     importMaterials: 1

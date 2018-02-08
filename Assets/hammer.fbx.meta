@@ -13,8 +13,12 @@ ModelImporter:
     400006: Lamp
     2000000: Camera
     2100000: No Name
+    2100002: hHead
+    2100004: hHandle
     2300000: ball_peen_hammer_hp
+    2300002: //RootNode
     3300000: ball_peen_hammer_hp
+    3300002: //RootNode
     4300000: ball_peen_hammer_hp
     10800000: Lamp
   externalObjects: {}
