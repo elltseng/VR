@@ -4,13 +4,11 @@ using UnityEngine;
 
 public class BatInput : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+	/*public Object Prefab;
+
+	public void spawn()
+	{
 		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+		Instantiate(Prefab,new Vector3(2.5f,2.5f,-6.0), Quaternion.identity);
+	}*/
 }
