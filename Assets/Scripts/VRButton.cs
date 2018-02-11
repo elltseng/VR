@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class VRButton : MonoBehaviour {
 
-	public Image Next;
+	public Image Image;
 	public Color NormalColor;
 	public Color HighlightColor;
 
@@ -16,12 +16,12 @@ public class VRButton : MonoBehaviour {
 
 	public void OnGazeEnter() 
 	{
-		Next.color = HighlightColor;
+		Image.color = HighlightColor;
 	}
 
 	public void OnGazeExit()
 	{
-		Next.color = NormalColor;
+		Image.color = NormalColor;
 	}
 	
 	// Update is called once per frame
