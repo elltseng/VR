@@ -26,7 +26,7 @@ public class Spawn : MonoBehaviour {
 
 	public void spawnObject()
 	{
-		reset();
+		//reset();
 		if (!spawned) {
 			decay = 1f;
 			spawned = true;
@@ -36,7 +36,7 @@ public class Spawn : MonoBehaviour {
 	}
 
 
-	private void reset()
+	public void reset()
 	{
 		if (spawn && decay > 0)
 			decay -= Time.deltaTime;
